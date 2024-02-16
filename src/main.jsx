@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
-import './index.css'
+import './assets/index.css'
 import enJSON from './locales/en/global.json';
 import azJSON from './locales/az/global.json'
 import i18next from 'i18next';

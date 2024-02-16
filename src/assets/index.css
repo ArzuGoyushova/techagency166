@@ -6,3 +6,8 @@
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
 }
+.clip-bottom {
+  clip-path: polygon(100% 0, 100% 50%, 50% 31%, 0 50%, 0 1%);
+}
+
+

@@ -44,7 +44,38 @@
     "questions": "Suallar",
     "desc1" : "10 sual - Azərbaycan dili",
     "desc2" : "10 sual - Riyaziyyat",
-    "button": "1 AZN - indi al"
+    "button": "1 AZN - indi al",
+    "information" : "Məlumat",
+    "questionCount" : "20 sual",
+    "date": "22.05.2023 hazırlanıb"
+  },
+  "examResults" : {
+    "title": "İmtahan üzrə nəticələr",
+    "winner1": "20 bal • 12 dəq",
+    "winner2": "20 bal • 20 dəq",
+    "winner3": "19 bal • 12 dəq",
+    "winner4": "18 bal • 12 dəq",
+    "winner5": "17 bal • 12 dəq"
+  },
+  "reviews": {
+    "title" : "Rəylər",
+    "subtitle" : "rəy"
+  },
+  "reviewCard" : {
+    "date" : "2 gün əvvəl",
+    "comment" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard "
+  },
+  "login" : {
+    "title" : "Daxil ol",
+    "username" : "İstifadəçi adı",
+    "password" : "Şifrə"
+  },
+  "register" :  {
+    "title" : "Qeydiyyat",
+    "username" : "İstifadəçi adı",
+    "password" : "Şifrə",
+    "confirmPassword" : "Şifrəni təkrarla",
+    "email": "Email ünvanı"
   }
 
 }

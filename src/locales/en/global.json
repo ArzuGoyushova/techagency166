@@ -43,6 +43,37 @@
     "questions": "Questions",
     "desc1" : "10 questions - Azerbaijani",
     "desc2" : "10 questions - Math",
-    "button": "1 AZN - buy now"
+    "button": "1 AZN - buy now",
+    "information" : "Information",
+    "questionCount" : "20 questions",
+    "date": "22.05.2023"
+  },
+  "examResults" : {
+    "title": "Exam results",
+    "winner1": "20 points • 12 min",
+    "winner2": "20 points • 20 min",
+    "winner3": "19 points • 12 min",
+    "winner4": "18 points • 12 min",
+    "winner5": "17 points • 12 min"
+  },
+  "reviews": {
+    "title" : "Reviews",
+    "subtitle" : "review"
+  },
+  "reviewCard" : {
+    "date" : "2 days ago",
+    "comment" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard "
+  },
+  "login" : {
+    "title" : "Login",
+    "username" : "Username",
+    "password" : "Password"
+  },
+  "register" :  {
+    "title" : "Register",
+    "username" : "Username",
+    "password" : "Password",
+    "confirmPassword" : "Confirm Password",
+    "email": "Email"
   }
 }
