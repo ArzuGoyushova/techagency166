@@ -1,0 +1,50 @@
+{
+    "navlinks": {
+    "aboutUs": "Haqqımızda",
+    "books": "Kitablar",
+    "exams": "İmtahanlar",
+    "contactUs": "Bizimlə əlaqə"
+  },
+  "logLinks":{
+    "login" : "Daxil ol",
+    "register" : "Qeydiyyat"
+  },
+  "banner": {
+    "exams" : "İmtahanlar",
+    "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it"
+  },
+  "categories" : {
+    "titles" : {
+    "subTitle" : "İmtahan",
+    "title" : "Kateqoriya seç"
+    },
+    "examTypes" : {
+        "finals" : "Buraxılış",
+        "block" : "Blok",
+        "improvement" : "Təkmilləşmə",
+        "primarySchool" : "İbtidai sinif",
+        "highSchool" : "Liseylərə",
+        "master" : "Magistratura",
+        "olympics" : "Olimpiadalar",
+        "subjectExam":"Fənn imtahanı"
+    }
+  },
+  "mostUsed": {
+    "subTitle": "Ən çox işlənənlər",
+    "title": "İmtahanlar",
+    "category": "Kateqoriyalar",
+    "tags" : "Etiketlər",
+    "button" : "Daha çox"
+
+  },
+  "cardDetails" : {
+    "title": "3cü sinif imtahanı",
+    "duration" : "45 dəqiqə",
+    "reviews" : "2 rəy",
+    "questions": "Suallar",
+    "desc1" : "10 sual - Azərbaycan dili",
+    "desc2" : "10 sual - Riyaziyyat",
+    "button": "1 AZN - indi al"
+  }
+
+}

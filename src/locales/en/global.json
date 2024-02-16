@@ -1,0 +1,48 @@
+{
+    "navlinks": {
+    "aboutUs": "About us",
+    "books": "Books",
+    "exams": "Exams",
+    "contactUs": "Contact us"
+  },
+  "logLinks":{
+    "login" : "Login",
+    "register" : "Register"
+  },
+  "banner": {
+    "exams" : "Exams",
+    "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quod esse doloremque incidunt possimus deserunt minima corrupti veritatis tenetur, quibusdam similique veniam quasi eius vitae placeat neque illum repudiandae."
+  },
+  "categories" : {
+    "titles" : {
+    "subTitle" : "Exam",
+    "title" : "Choose a category"
+    },
+    "examTypes" : {
+        "finals" : "Finals",
+        "block" : "Block",
+        "improvement" : "Improvement",
+        "primarySchool" : "Primary School",
+        "highSchool" : "High School",
+        "master" : "Master",
+        "olympics" : "Olympics",
+        "subjectExam":"Subject Exam"
+    }
+  },
+  "mostUsed": {
+    "subTitle": "Most used",
+    "title": "Exams",
+    "category": "Categories",
+    "tags" : "Tags",
+    "button" : "More"
+  },
+  "cardDetails" : {
+    "title": "3rd grade exam",
+    "duration" : "45 minutes",
+    "reviews" : "2 reviews",
+    "questions": "Questions",
+    "desc1" : "10 questions - Azerbaijani",
+    "desc2" : "10 questions - Math",
+    "button": "1 AZN - buy now"
+  }
+}
